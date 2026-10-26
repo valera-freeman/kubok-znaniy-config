@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "version": "2026-10-26.6",
+  "version": "2026-10-26.7",
   "enabled": true,
   "blockedVersionCodes": [],
-  "minVersionCode": 142
+  "minVersionCode": 143
 }
