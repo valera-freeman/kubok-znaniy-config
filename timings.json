@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "version": "2026-10-26.1",
+  "enabled": true,
+  "host": {
+    "startDelayMs": 8500,
+    "themeIntroMs": 3000,
+    "revealMs": 7000,
+    "statsMs": 7000,
+    "auctionMs": 20000,
+    "auctionSummaryMs": 7000,
+    "sortExplainerMs": 8000,
+    "topicVoteMs": 10000,
+    "topicVoteResultMs": 3500,
+    "startGraceMs": 3000,
+    "hostGoneMs": 20000
+  }
+}
