@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "2026-10-26.2",
+  "version": "2026-10-26.3",
   "enabled": true,
   "host": {
     "startDelayMs": 8500,
@@ -13,6 +13,7 @@
     "topicVoteMs": 10000,
     "topicVoteResultMs": 3500,
     "startGraceMs": 3000,
-    "hostGoneMs": 20000
+    "hostGoneMs": 20000,
+    "hostAwayMs": 60000
   }
 }
