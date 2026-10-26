@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "version": "2026-10-26.1",
+  "version": "2026-10-26.2",
   "enabled": true,
   "host": {
     "startDelayMs": 8500,
-    "themeIntroMs": 3000,
+    "themeIntroMs": 4000,
     "revealMs": 7000,
     "statsMs": 7000,
     "auctionMs": 20000,
